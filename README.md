@@ -49,3 +49,9 @@ Praktikum Day 2 — Membuat struktur dasar website menggunakan **HTML, CSS, dan 
 Dalam praktikum ini, saya mempelajari cara mengelola proyek web menggunakan Git, mulai dari **inisialisasi repository, staging, commit, branch, merge, hingga push ke GitHub**. Dokumentasi ini menjadi dasar untuk memahami **version control** dalam pengembangan perangkat lunak.
 
 ---
+
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bac4833-3495-4b43-a4f1-ae15357aab30" />
+
